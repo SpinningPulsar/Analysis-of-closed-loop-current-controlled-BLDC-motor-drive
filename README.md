@@ -1,5 +1,6 @@
 # Analysis-of-closed-loop-current-controlled-BLDC-motor-drive
  This project aims to create a controllable BLDC motor system that can maintain a desired speed  using closed-loop feedback while providing an  UART for user interaction.
+ 
 **Project Title: Block Commutation BLDC Drive with Closed-Loop Control and UART CLI**
 ![WhatsApp Image 2023-08-05 at 20 46 06](https://github.com/SpinningPulsar/Analysis-of-closed-loop-current-controlled-BLDC-motor-drive/assets/17098604/3043b11b-66c7-474f-b0f0-ebb5d5228b85)
 
